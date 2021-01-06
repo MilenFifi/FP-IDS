@@ -24,3 +24,10 @@ Bagian Twilio:
 ![WA Twilio](https://github.com/MilenFifi/FP-IDS/blob/main/twilio%20join.PNG)
 ![Twilio WA](https://github.com/MilenFifi/FP-IDS/blob/main/twilio.PNG)
 3. Lalu buat coding python seperti di [Coding Python](https://github.com/MilenFifi/FP-IDS/blob/main/Vib.py)
+4. Install Twilio pada terminal dengan ketik ``pip install twilio``
+5. Install library serial dengam ketik ``pip install pyserial``
+6. Run Program
+![Alat Getar](https://github.com/MilenFifi/FP-IDS/blob/main/84425.jpg)
+![Deteksi](https://github.com/MilenFifi/FP-IDS/blob/main/Capture.PNG)
+
+*NB : ingat untuk merubah Autentikasi Token pada coding python
