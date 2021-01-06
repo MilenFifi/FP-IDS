@@ -17,7 +17,7 @@ Gambar diatas merupakan prototype alat untuk final project "Intrusion Detection 
 Bagian Alat:
 1. Merangkai alat seperti gambar diatas.
 2. Upload coding arduino pada alat, coding dapat dilihat pada [Coding Arduino](https://github.com/MilenFifi/FP-IDS/blob/main/meas.ino)
-3. Mencoba dengan membuka Serial Monitor.
+3. Mencoba dengan membuka Serial Monitor. "/n"
 Bagian Twilio:
 1. buat akun pada website twilio sampai bisa buat project
 2. Buat Project dan sambungkan pada Whatsapp seperti gambar dibawah
