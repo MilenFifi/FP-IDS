@@ -4,7 +4,7 @@
   * NRP   : 05311840000020
   
 ## Penjelasan
-![Prototype alat] (https://github.com/MilenFifi/FP-IDS/blob/main/84482.jpg)
+![Prototype alat](https://github.com/MilenFifi/FP-IDS/blob/main/84482.jpg)
 Gambar diatas merupakan prototype alat untuk final project "Intrusion Detection Using Vibration Sensor SW-420 Notification with Twilio", alat yang dibutuhkan dalam pengerjaan alat ini antara lain:
   1. Arduino Uno
   2. Led
@@ -21,6 +21,6 @@ Bagian Alat:
 Bagian Twilio:
 1. buat akun pada website twilio sampai bisa buat project
 2. Buat Project dan sambungkan pada Whatsapp seperti gambar dibawah
-![WA Twilio] (https://github.com/MilenFifi/FP-IDS/blob/main/twilio%20join.PNG)
-![Twilio WA] (https://github.com/MilenFifi/FP-IDS/blob/main/twilio.PNG)
+![WA Twilio](https://github.com/MilenFifi/FP-IDS/blob/main/twilio%20join.PNG)
+![Twilio WA](https://github.com/MilenFifi/FP-IDS/blob/main/twilio.PNG)
 3. Lalu buat coding python seperti di [Coding Python](https://github.com/MilenFifi/FP-IDS/blob/main/Vib.py)
